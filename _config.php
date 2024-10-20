@@ -1,5 +1,5 @@
 <?php 
-$conn = mysqli_connect("localhost", 'root' , '', "anime") or die("Connection fail");
+$conn = mysqli_connect("localhost", 'rtcgltfp_anixer', 'Addmin1995@', "rtcgltfp_anixer.site") or die("Connection fail");
 
 
 $websiteTitle = "Zoro";
