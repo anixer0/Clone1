@@ -17,8 +17,6 @@ if (isset($video['sources']) && !empty($video['sources'])) {
     exit;
 }
 ?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 
